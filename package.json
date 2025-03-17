@@ -1,7 +1,7 @@
 {
   "name": "todo-list",
   "description": "Lista de Tarefas básica e funcional, com salvamento de dados no Local Storage do navegador.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "type": "module",
   "private": true,
